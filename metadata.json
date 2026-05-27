@@ -1,0 +1,6 @@
+{
+  "name": "WGS_VPN",
+  "description": "🛸 Next-Gen Space-Grade VPN 🛰️ Secure tunneling with custom low-latency reactor core, zero-trust military-grade encryption (ChaCha20-Poly1305 / AES-256-GCM), real-time live interactive telemetry radar, and smart direct-route gaming acceleration. Powered by twin-galaxy AstroUI 2026. ✨🚀",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
